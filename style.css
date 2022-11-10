@@ -60,6 +60,11 @@ h1{
     /* float: right; */
     }
     
+.blk{
+    border-color: blueviolet;
+
+}
+
 
 p {
     width: fit-content;
